@@ -12,3 +12,5 @@ if __name__ == '__main__':
     n = [25, 5, 63, 21, 54]
     reverse(n)
     print(n)
+    
+    
