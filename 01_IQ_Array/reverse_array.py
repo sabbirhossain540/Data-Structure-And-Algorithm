@@ -7,6 +7,8 @@ def reverse(nums):
         start_index = start_index + 1
         end_index = end_index - 1
 
+        
+        
 
 if __name__ == '__main__':
     n = [25, 5, 63, 21, 54]
